@@ -30,6 +30,9 @@ const josefinSans = Josefin_Sans({
 export const metadata = {
  title: "Athirappilly Falls | Athirapally Falls | Waterfalls In Kerala",
   description: "A worth visit to the Athirappilly Falls offering a scenic beauty to you. It is situated in Kerala in South India. Thirussur is a tourist spot in Kerala for.",
+   alternates: {
+      canonical: "https://www.athirappillyfalls.com/",
+    },
    icons: {
     icon: [
       { url: '/athirappillyfalls-32x32.png', sizes: '32x32', type: 'image/png' },
